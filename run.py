@@ -1,1 +1,1 @@
-import fuckoff
+import yp
