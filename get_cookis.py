@@ -1,6 +1,6 @@
-import uuid, random, requests, time 
+import uuid, random, requests, time ,os
 
-
+os.system("clear")
 uid=input(" !-! USERNAME or Number/Email: ")
 ps=input(" !-! Password :")
 
