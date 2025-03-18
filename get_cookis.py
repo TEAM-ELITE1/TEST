@@ -2,7 +2,7 @@ import uuid, random, requests, time ,os
 
 os.system("clear")
 uid=input(" !-! USERNAME or Number/Email: ")
-ps=input(" !-! Password :")
+ps=input(" !-! Password : ")
 
 data={
                 'adid': str(uuid.uuid4()),
